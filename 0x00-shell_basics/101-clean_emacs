@@ -1,2 +1,2 @@
 #!/bin/bash 
-rm -v *~
+bash delete_files.sh
