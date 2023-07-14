@@ -1,2 +1,2 @@
-#!/bin/bash 
-bash delete_files.sh
+#!/bin/bash
+rm *~
